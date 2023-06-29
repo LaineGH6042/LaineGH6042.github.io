@@ -1,6 +1,6 @@
 # Professional Certificate in Data Engineering (PCDE) Projects
 
-PCDE <a href="https://LaineGH6042.github.io/blob/main/PCDE/CourseDescription.md">Course Description</a>
+PCDE <a href="https://lainegh6042.github.io/blob/main/PCDE/CourseDescription.md">Course Description</a>
 
 ## Multiple Linear Regression with Python
 
