@@ -8,3 +8,7 @@ MIT xPro PCDE <a href="https://xpro.mit.edu/courses/course-v1:xPRO+PCDEx/">Cours
 * <a href="https://github.com/LaineGH6042/PCDE/blob/main/PythonLinearRegression/ProjectDescription">Project Description</a>  
 * <a href="https://github.com/LaineGH6042/PCDE/blob/main/PythonLinearRegression/pcdeProject1_HousingPricePredictions.ipynb">Housing Price Predictions: Jupyter Notebook</a>  
 * <a href="https://github.com/LaineGH6042/PCDE/blob/main/PythonLinearRegression/pcdeProject1_HousingPricePresentation.pptx">Housing Price Predictions: Presentation</a>  
+
+## ETL with Python and MySQL
+
+<a href="">Time Series ETL & Analysis Project Folder</a>
