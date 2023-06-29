@@ -1,3 +1,8 @@
-# LaineGH6042 GitHub Pages
+# Laine Beatty GitHub Portfolio
 
-<a href="https://lainegh6042.github.io/PCDE-Activity-9.1/">PCDE Activity 9.1</a>
+## Multiple Linear Regression with Python
+
+<a href="https://github.com/LaineGH6042/PCDE/tree/main/PythonLinearRegression">Housing Price Predictions Project Folder</a>  
+* <a href="https://github.com/LaineGH6042/PCDE/blob/main/PythonLinearRegression/ProjectDescription">Project Description</a>  
+* <a href="https://github.com/LaineGH6042/PCDE/blob/main/PythonLinearRegression/pcdeProject1_HousingPricePredictions.ipynb">Housing Price Predictions: Jupyter Notebook</a>  
+* <a href="https://github.com/LaineGH6042/PCDE/blob/main/PythonLinearRegression/pcdeProject1_HousingPricePresentation.pptx">Housing Price Predictions: Presentation</a>  
