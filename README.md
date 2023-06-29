@@ -1,5 +1,3 @@
-# LaineGH6042.github.io
-
 # Laine Beatty GitHub Portfolio
 
 ## Multiple Linear Regression with Python
