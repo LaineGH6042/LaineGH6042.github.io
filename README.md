@@ -1,4 +1,4 @@
-# Laine Beatty GitHub Portfolio
+# Professional Certificate in Data Engineering Projects
 
 ## Multiple Linear Regression with Python
 
