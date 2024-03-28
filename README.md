@@ -1,7 +1,7 @@
 # Professional Certificate in Data Engineering (PCDE) Projects
 
 MIT xPRO PCDE  
-<a href="https://xpro.mit.edu/courses/course-v1:xPRO+PCDEx/">Course Description</a>
+<a href="https://github.com/LaineGH6042/PCDE/blob/main/README.md">Course Overview</a>
 
 ## Multiple Linear Regression with Python
 
