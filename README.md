@@ -18,7 +18,8 @@
 ### *Python*
 
 #### Time Series ETL with Python and MySQL (PCDE)
-* <a href="">Time Series ETL & Analysis Project Folder</a>
+* <a href="https://github.com/LaineGH6042/PCDE/tree/main/ETLwithMySQL">Time Series ETL & Analysis Project Folder</a>
+  + 
 
 #### Multiple Linear Regression with Python (PCDE)
 * <a href="https://github.com/LaineGH6042/PCDE/tree/main/PythonLinearRegression">Housing Price Predictions Project Folder</a>  
