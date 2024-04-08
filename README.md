@@ -1,4 +1,6 @@
-# Credentials
+# GitHub Portfolio
+
+## Credentials
 
 #### MIT xPRO <a href="https://xpro.mit.edu/courses/course-v1:xPRO+PCDEx/">Professional Certificate in Data Engineering</a> (PCDE)
 
@@ -10,9 +12,9 @@
   
 ---
 
-# Projects
+## Projects
 
-## *Python*
+### *Python*
 
 #### Time Series ETL with Python and MySQL (PCDE)
 * <a href="">Time Series ETL & Analysis Project Folder</a>
@@ -25,13 +27,13 @@
 
 <br>  
 
-## *R*
+### *R*
 
 <br>  
 
-## *Tableau*
+### *Tableau*
 
 <br>  
 
-## *GRETL*
+### *GRETL*
 
